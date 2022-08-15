@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25bf88&height=180&section=header&text=Daniel Marcelo Braga&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25bf88&height=180&section=header&text=Daniel+Marcelo+Braga&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25bf88&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Daniel+Marcelo+Braga;I'm+24+years+old;I+from+Brasil,+SP;I+study+Analysis+and+Systems+Development+at+Descomplica;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
