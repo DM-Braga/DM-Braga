@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25bf88&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Daniel+Marcelo+Braga;I'm+24+years+old;I+from+Brasil,+SP;I+study+Analysis+and+Systems+Development+at+Descomplica;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlitRoyce&show_icons=true&count_private=true&hide_border=true&title_color=25bf88&icon_color=25bf88&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Marcelo Braga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlitRoyce&layout=compact&hide_border=true&title_color=25bf88&text_color=25bf88&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DM-Braga&show_icons=true&count_private=true&hide_border=true&title_color=25bf88&icon_color=25bf88&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Marcelo Braga github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DM-Braga&layout=compact&hide_border=true&title_color=25bf88&text_color=25bf88&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=PlitRoyce&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=DM-Braga&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PlitRoyce&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DM-Braga&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
