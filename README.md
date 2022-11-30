@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DM-Braga&layout=compact&hide_border=true&title_color=25bf88&text_color=25bf88&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=DM-Braga&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DM-Braga&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
